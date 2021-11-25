@@ -7,4 +7,3 @@ for i in range(1, len(ar)):
         number = i
 print("Row number:")
 print(number)
-
