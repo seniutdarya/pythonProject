@@ -14,6 +14,7 @@ def dog_age2human_age(dog_age):
         human_age = 14
     elif dog_age == 2:
         human_age = 22
+        print()
     else:
         human_age =  22 + (dog_age-2)*5
     return human_age
